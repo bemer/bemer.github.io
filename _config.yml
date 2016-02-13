@@ -33,7 +33,7 @@ color:
 # Footer settings
 footer:
   copyright: Bruno Emer
-  social: Pela internet
+  social: Redes Sociais
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -41,6 +41,9 @@ social:
     url: http://twitter.com/brunoemer_
   - title: linkedin
     url: http://br.linkedin.com/in/brunoemer
+  - title: facebook
+    url: http://www.facebook.com/bruno.emer.5
+
 
 # Postal address (add as many lines as necessary)
 
